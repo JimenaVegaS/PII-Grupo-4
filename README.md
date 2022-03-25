@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Proyecto Final
 
 You can use the [editor on GitHub](https://github.com/JimenaVegaS/PII-Grupo-4/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
